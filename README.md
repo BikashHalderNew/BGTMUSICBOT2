@@ -3,15 +3,9 @@
 
 <p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg"></a></p>
 
-
-### Deploy On OkTeto
-
-[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/adityabots/tgmusicbot)
-
-
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IambikashHalder/bgtxmusicbot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BikashhalderNew/BGTMUSICBOT2)
 
 ## Give A Star
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
