@@ -13,7 +13,7 @@
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IambikashHalder/bgtxmusicbot)
 
-## Deploy
+## Give A Star
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
@@ -35,12 +35,6 @@
 ## YouTube 📺
 
 [YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
-
-
-#### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
-
-### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
 
 
 #### Main Developer = [Bikash](https://t.me/BikashHalder)
